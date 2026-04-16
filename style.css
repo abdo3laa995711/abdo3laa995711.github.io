@@ -18,12 +18,10 @@ body {
 
     
     }
-.zz:hover{
-    color: black;
-    font-size: 30px;
-}
+
  .sss:hover{
     color: black;
+     backgrund:white;
     font-size: 25px;
    }
 
@@ -62,9 +60,7 @@ body {
     text-decoration: none;
 }
 
-.N a:hover {
-    background: white;
-}
+
 
 
 .M {
